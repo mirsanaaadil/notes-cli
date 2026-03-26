@@ -1,5 +1,5 @@
  Notes Management CLI Application
-This is a Command Line Interface (CLI) application built with Python ans SQLite. it is designed to help users 
+This is a Command Line Interface (CLI) application built with Python and SQLite. it is designed to help users 
            Add notes
            View notes
            Search notes and 
